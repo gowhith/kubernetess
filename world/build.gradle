@@ -1,0 +1,12 @@
+plugins {
+    id 'java'
+}
+
+bootJar {
+    archiveFileName = "world.jar"
+    version = ""
+}
+
+jar{
+    enabled = false
+}
