@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: hello
-          image: hello
+          image: gowhith12345/hello
           ports:
             - containerPort: 8080
 ---

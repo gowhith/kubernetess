@@ -28,3 +28,10 @@ Open terminal and set path to current working directory
     7. open new terminal and run this command to get the url for hello application -> **minikube service world-service -n default --url**
        replace the output of above command in run.sh under WORLD_URL variable
     8. execute **run.sh** file to make an api call to both hello and world applications and print the response in terminal
+
+    **https://hub.docker.com/layers/gowhith12345/world/latest/images/sha256:f477c9b5a117d10cc4d0c3d79743d01470f05f0339b04d74acaaeec7acee258e?uuid=58c85301-c562-48f5-a59b-fb668bb07375%0A  - world      https://hub.docker.com/layers/gowhith12345/hello/latest/images/sha256:3d4e0f97890ba0c89fca0a312043dab56817d6d991f695e7972529dad6d37022?uuid=58c85301-c562-48f5-a59b-fb668bb07375%0A  - hello**
+
+
+
+
+

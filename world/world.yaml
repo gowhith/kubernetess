@@ -15,8 +15,8 @@ spec:
         app: world
     spec:
       containers:
-        - name: hello
-          image: world
+        - name: world
+          image: gowhith12345/world
           ports:
             - containerPort: 8080
 ---
