@@ -1,4 +1,3 @@
-Microservices Deployment Guide
 
 ## Prerequisite
 Docker: Ensure Docker is installed and running on your local machine.
